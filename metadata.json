@@ -1,0 +1,6 @@
+{
+  "name": "ATILOLA AI",
+  "description": "An intelligent document reader designed to help students and readers understand unfamiliar words without distraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
